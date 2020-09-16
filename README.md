@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Check out my live projects
+### [Travel Cost Estimate](https://travel-cost-estimator.herokuapp.com/)
+This web app dynamically estimates travel costs based on user inputs and displays the cost and route on a map.
+[Check out the code](https://github.com/IanB13/travel-cost-estimator)
+
+### [Job Link Finder](http://google.com)
+
+
+
 <!--
 **IanB13/IanB13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

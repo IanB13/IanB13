@@ -1,12 +1,15 @@
-### Hi there 👋
-
 ## Check out my live projects
 ### [Travel Cost Estimate](https://travel-cost-estimator.herokuapp.com/)
-This web app dynamically estimates travel costs based on user inputs and displays the cost and route on a map.
+Dynamically estimates travel costs based on user inputs and displays the cost and route on a map. <br/>
 [Check out the code](https://github.com/IanB13/travel-cost-estimator)
 
-### [Job Link Finder](http://google.com)
+### [Job Link Finder](https://techlondonjobs.herokuapp.com/)
+Uses puppetter to automatically parse job links and find dead job links. <br/>
+[Check out the backend](https://github.com/IanB13/TechLondonJobs) <br/>
+[Check out the frontend](https://github.com/IanB13/TechLondonJobs-frontend)
 
+### [Pipeline Integrity](https://pipeline-integrity.herokuapp.com/)
+Displays over 300000 pipelines in the province of Alberta and powerlines. 
 
 
 <!--

@@ -8,8 +8,7 @@ Uses puppetter to automatically parse job links and find dead job links. <br/>
 [Check out the backend](https://github.com/IanB13/TechLondonJobs) <br/>
 [Check out the frontend](https://github.com/IanB13/TechLondonJobs-frontend)
 
-### [Pipeline Integrity](https://pipeline-integrity.herokuapp.com/)
-Displays over 300000 pipelines in the province of Alberta and powerlines. 
+
 <br/> 
 <br/>
 I’m currently working on the [Unistats Api](https://github.com/IanB13/unistats-api)

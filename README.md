@@ -8,10 +8,12 @@ Uses puppetter to automatically parse job links and find dead job links. <br/>
 [Check out the backend](https://github.com/IanB13/TechLondonJobs) <br/>
 [Check out the frontend](https://github.com/IanB13/TechLondonJobs-frontend)
 
+### [Jimbo's Ilegal Deli](https://jimbo-ilegal-deli.herokuapp.com/)
+Jimbo's Illegal Deli is a ecommerce platform that allows users to buy and sell products.
+It is written in node.js, tested with jest and documented with the Swagger API.
+It is deployed with a docker container using GitHub Actions. <br/>
+[Check out the code](https://github.com/IanB13/jimbo-ilegal-deli) <br/>
 
-<br/> 
-<br/>
-I’m currently working on the [Unistats Api](https://github.com/IanB13/unistats-api)
 
 <!--
 **IanB13/IanB13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
